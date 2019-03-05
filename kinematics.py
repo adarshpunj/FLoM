@@ -171,5 +171,3 @@ class Projectile(Motion):
 
     def fire(self):
         self.start(1)
-
-Projectile(15,45).fire()
